@@ -33,10 +33,9 @@ I’m continuously working on this project, and here's what's planned:
 ## 💡 Contributions
 
 Want to help make this project even better?
- 
-Feel free to contribute!
+ Feel free to contribute!
 
-### How to Contribute:
+### Steps to Contribute:
 
 1. **Fork the repository**.
 2. **Create a new branch**: git checkout -b feature/your-feature-name
