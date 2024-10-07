@@ -32,7 +32,9 @@ I’m continuously working on this project, and here's what's planned:
 
 ## 💡 Contributions
 
-Want to help make this project even better? Feel free to contribute!
+Want to help make this project even better?
+ 
+Feel free to contribute!
 
 ### How to Contribute:
 
